@@ -1,0 +1,7 @@
+//
+// Do any local configuration here
+//
+zone "gigi.murin" {
+	type master;
+	file "/etc/bind/db.gigi.murin";
+};
