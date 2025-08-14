@@ -142,3 +142,7 @@ bin/mandelbrot
 # Fractal Example
 
 <img title="" src="mandelbrot.png" alt="">
+
+# GUI Demo
+
+https://youtu.be/orq7pvCHVH0
