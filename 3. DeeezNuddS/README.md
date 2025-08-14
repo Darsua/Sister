@@ -6,5 +6,4 @@ The files include network interface settings, service configurations, firewall r
 
 # Demonstration Video
 
-The video showcasing the simulation can be found at:
 https://youtu.be/zJ1API_toKk
