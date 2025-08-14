@@ -26,7 +26,9 @@ is_pixel_mandelbrot(int x, int y, Frame* img)
     return is_mandelbrot(real + imag * I);
 }
 
-void hsv_to_rgb(double h, double s, double v, unsigned char* r, unsigned char* g, unsigned char* b) {
+void
+hsv_to_rgb(double h, double s, double v, unsigned char* r, unsigned char* g, unsigned char* b)
+{
     int i = (int)(h * 6);
     double f = h * 6 - i;
     double p = v * (1 - s);
