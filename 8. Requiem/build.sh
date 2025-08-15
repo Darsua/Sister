@@ -1,0 +1,1 @@
+gcc -o bin/zako src/zako.c && echo Compiliation succesful! && echo Run with bin/zako
